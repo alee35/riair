@@ -1,0 +1,7 @@
+patient_id,encounter_date,age_at_start,polygon_id,cohort_id,eligible,community_asthma,referral,outcome,outcome_id,outcome_desc
+13,2019-01-01,2,20,1,1,0,1,1,1,Eligible
+13,2019-01-01,2,20,1,1,0,1,1,1,Eligible
+13,2019-01-01,2,20,1,1,0,1,1,1,Eligible
+14,2017-03-01,1,20,1,0,1,0,4,4,Ineligible - other community asthma programs
+14,2017-03-01,1,20,1,0,1,0,4,4,Ineligible - other community asthma programs
+14,2017-03-01,1,20,1,0,1,0,4,4,Ineligible - other community asthma programs
